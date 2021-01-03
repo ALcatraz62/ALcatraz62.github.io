@@ -30,5 +30,5 @@ A new year and thus a new project. While I usually find myself being more of a S
 As I go through the project I plan on tracking what parts and tools I used on this [Part List][1] page.
 
 
-[1]: /voyagerparts.html
+[1]: /voyagerparts
  
